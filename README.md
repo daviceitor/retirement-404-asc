@@ -14,6 +14,7 @@ Bienvenido al "stack" de supervivencia financiera. Este es un repo colaborativo 
 3. *Skin in the game* - Nassim nicolas taleb
 4. *Your Money or Your Life* - Vicki Robin
 5. *Simple path to wealth* - JL Collins
+6. *The Little Book of Common Sense Investing* - John C. Boogle
 
 ## 🎧 Podcast Stack (The Audio Library)
 - [How to Get Rich - Naval Ravikant](https://nav.al/rich): No es solo sobre dinero; es sobre entender el apalancamiento (leverage), el juicio y la propiedad. Un "must" para cualquier ingeniero.
