@@ -15,9 +15,13 @@ Bienvenido al "stack" de supervivencia financiera. Este es un repo colaborativo 
 4. *Your Money or Your Life* - Vicki Robin
 5. *Simple path to wealth* - JL Collins
 6. *The Little Book of Common Sense Investing* - John C. Boogle
+7. [*El inversor inteligente - Benjamin Graham*](https://es.wikipedia.org/wiki/El_inversor_inteligente)
+8. [*Alicia regresa a Wall Street - Luis Allué Bellosta/Pablo Martínez Bernal*](https://www.amazon.es/Alicia-regresa-Wall-Street-invertir-ebook/dp/B09798T65L)
 
 ## 🎧 Podcast Stack (The Audio Library)
-- [How to Get Rich - Naval Ravikant](https://nav.al/rich): No es solo sobre dinero; es sobre entender el apalancamiento (leverage), el juicio y la propiedad. Un "must" para cualquier ingeniero.
+1. [*How to Get Rich - Naval Ravikant*](https://nav.al/rich) -> No es solo sobre dinero; es sobre entender el apalancamiento (leverage), el juicio y la propiedad. Un "must" para cualquier ingeniero.
+2. [*+ Dividendos*](https://blogs.masdividendos.com/oficial/category/podcast) -> Probablemente el último reducto de la elegancia y la educación en la inversión
+3. [*Pildoras del conocimiento*](https://pildorasdelconocimiento.com/episodios) -> Podcast de divulgación, cultura y conocimiento general, con cierta tendencia al mundo de las finanzas personales y la inversión
 
 ## 🤝 Cómo contribuir
 ¿Tienes un script, una calculadora en Excel o un libro que haya cambiado tu vida?
